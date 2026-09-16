@@ -1,0 +1,10 @@
+{
+  "description": "Streamline campus life with a comprehensive assistant that offers students easy access to resources, schedules, and community engagement tools.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
